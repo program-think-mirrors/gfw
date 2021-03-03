@@ -8,14 +8,14 @@
 （必须翻墙才能访问）
 为了方便大伙儿下载，它的官网提供了每日更新的镜像网站列表。
 这些镜像可以【免翻墙】访问，让你用来下载安装包。
-具体的镜像网址如下（更新时间：2021-02-01）
+具体的镜像网址如下（更新时间：2021-03-02）
 
+http://202.182.127.177:4218/cn/    (Mirror location: United States)
 http://103.201.129.50:3260/cn/    (Mirror location: Japan)
-http://91.207.174.26:10967/cn/    (Mirror location: United Kingdom)
-http://109.111.243.206:17579/cn/    (Mirror location: Serbia)
+http://23.170.32.37:8285/cn/    (Mirror location: Reserved)
+http://194.127.164.246:28149/cn/    (Mirror location: Estonia)
 http://103.201.129.158:47658/cn/    (Mirror location: Japan)
-http://161.202.144.236:56364/cn/    (Mirror location: United States)
-http://115.37.241.215:23041/cn/    (Mirror location: Japan)
+http://5.181.235.14:29916/cn/    (Mirror location: United Kingdom)
 
 
 由于 VPN Gate 的安装包比较大，而且它的官网已经提供了上述【免翻墙镜像】。
