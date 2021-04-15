@@ -8,13 +8,13 @@
 （必须翻墙才能访问）
 为了方便大伙儿下载，它的官网提供了每日更新的镜像网站列表。
 这些镜像可以【免翻墙】访问，让你用来下载安装包。
-具体的镜像网址如下（更新时间：2021-04-01）
+具体的镜像网址如下（更新时间：2021-04-13）
 
 http://202.182.127.177:4218/cn/    (Mirror location: United States)
 http://208.94.244.242:39324/cn/    (Mirror location: United States)
 http://103.201.129.50:3260/cn/    (Mirror location: Japan)
+http://v-dot-pn-ams2.opengw.net:34637/cn/    (Mirror location: European Union)
 http://23.170.32.37:8285/cn/    (Mirror location: Reserved)
-http://109.111.243.206:17579/cn/    (Mirror location: Serbia)
 http://194.127.164.246:28149/cn/    (Mirror location: Estonia)
 
 
